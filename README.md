@@ -1,4 +1,8 @@
-The Android port of the Frozen Bubble game.  The project now uses a Gradle
+This repo is a Cursor-made adaptation of https://github.com/kthakore/frozen-bubble/tree/master for recent android OS. I like this game, but it wasn't running on my Android 16.
+While I used to be a developper, I did not check every inch of the new code generated. There may be vulnerabilities somewhere that I unfortunately can't recognise & tackle with my current skills.
+###########
+
+The Android port of the Frozen Bubble game.  The project uses a Gradle
 build and targets modern Android versions (target SDK 35, min SDK 21).
 
 Build prerequisites:
